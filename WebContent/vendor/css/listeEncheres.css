@@ -1,0 +1,49 @@
+/* Balises HTML */
+h1{
+	font-weight: bold !important;
+	font-size: 2.8rem !important;	
+}
+
+h2{
+	font-weight: bold !important;
+}
+
+/* Classes */
+
+input[type="radio"].radio-checkbox {
+  display: none;
+}
+input[type="radio"].radio-checkbox + label::before {
+  font-family: "Font Awesome 5 Free";
+  font-size: 1.2em;  
+  color: #000 ;
+  margin: 0 0.5rem ;
+}
+
+input[type="radio"].radio-checkbox + label::before {
+  content: '\f0c8';
+}
+input[type="radio"].radio-checkbox:checked + label::before {
+  content: '\f14a';
+}
+
+
+
+/*  Ids  */
+#btn-rechercher{
+	height: 150px;
+	width: 300px;
+	font-weight: bold;
+	font-size: 1.8rem !important;
+}
+
+#link-connect{
+	font-weight: bold;
+	font-size: 1rem !important;
+}
+#link-title{
+	font-weight: bold;
+}
+#label-categorie{
+	font-size: 1.5rem !important;
+}

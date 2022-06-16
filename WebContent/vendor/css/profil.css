@@ -1,0 +1,22 @@
+/* Balises*/
+span.h4{
+	margin-left: 10rem !important;
+}
+span.h5{
+	margin-left: 1rem !important;
+}
+/* Classes*/
+.margin-content{	
+	margin-top: 10rem;
+	margin-left: 15rem !important;
+	margin-right: 15rem !important;
+	margin-bottom: 10rem;
+}
+/* Ids */
+#link-connect{
+	font-weight: bold;
+	font-size: 1rem !important;
+}
+#link-title{
+	font-weight: bold;
+}

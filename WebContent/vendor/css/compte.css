@@ -1,0 +1,42 @@
+#link-connect{
+	font-weight: bold;
+	font-size: 1rem !important;
+}
+#link-title{
+	font-weight: bold;
+
+}
+
+.label{
+	
+			width: 150px;
+            display: inline-block;
+            text-align: left;
+}
+
+.input {
+            width: 200px;
+            display: inline;
+}
+
+@media screen and (min-width: 600px) {
+        .col1 {
+          width: 50%;
+          float: left;
+        }
+
+        .col2 {
+          width: 50%;
+          float: right;
+        }
+}
+
+form {
+	
+	top-margin: 30px;
+	bottom-margin: 30px;
+}
+
+
+
+ 

@@ -1,0 +1,61 @@
+#btn-rechercher{
+	height: 150px;
+	width: 300px;
+	font-weight: bold;
+	font-size: 1.8rem !important;
+}
+
+#link-connect{
+	font-weight: bold;
+	font-size: 1rem !important;
+}
+#link-title{
+	font-weight: bold;
+
+}
+#label-categorie{
+	font-size: 1.5rem !important;
+}
+
+h1{
+	font-weight: bold !important;
+	font-size: 2.8rem !important;	
+}
+
+h2{
+	font-weight: bold !important;
+}
+
+label { 
+	display: inline-block; 
+	width: 130px; 
+}
+
+input[type='number']{
+	text-align: right;
+}
+
+.aligntop{
+	vertical-align: top;
+}
+
+.card {	
+	padding: 10px 10px 10px 10px;
+	margin: 0px 0px 15px 0px;
+}
+
+.prix {
+  border-radius: 4px;
+  background: rgb(230,230,230);
+  padding: 5px;
+  font-weight: bold;
+}
+
+.position { 
+  border-radius: 4px;
+  background: rgb(230,230,230);
+  padding: 30px;
+  font-weight: bold;
+  font-size: 1.2rem;
+  color:green;
+}
